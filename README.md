@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Working on: High-performance Python & AI automation pipelines.<br><br>👯 Collaborating on: Cutting-edge AI automation tools and agents.<br><br>🤝 Need help with: Architecting, launching, and scaling SaaS products.<br><br>🌱 Learning: Deep learning frameworks & advanced Python libraries.
 
 
